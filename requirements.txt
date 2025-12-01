@@ -9,3 +9,7 @@ torchvision>=0.15.0
 # TransNet V2 - GitHub'dan kurulacak (install_transnet.py ile)
 # git+https://github.com/soCzech/TransNetV2.git
 
+# Scene Detection Dependencies
+transformers>=4.30.0
+pillow>=9.0.0
+memorize>=0.1.1
